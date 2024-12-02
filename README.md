@@ -4,7 +4,7 @@
 - **Gilberto Alexsandro**  
 - **Guilherme Miranda**  
 
-# Projeto IoT na Área da Saúde
+# Botão de Emergência com dois cliques
 
 Este projeto é faz parte do HandsOn do **Projeto Maloca das iCoisas** e tem como objetivo implementar melhorias no sistema de um botão de emergência, mostrando a nova funcionalidade de acionamento de emergência com dois cliques, evitando o acionamento por engano com apenas um clique. Ele foi desenvolvido usando a plataforma **Wokwi** para simulação e validação do esquema e código. E também foi testado em sala de aula. 
 
